@@ -23,6 +23,8 @@ Install it in your `server-data/resources` and add it to your `server.cfg` like 
 
 If you want to change something go in the `g-loadscreen/js/config.js` there you can change all colors and disable or enable things you dont want
 
+For more help visit the Wiki
+
 ## Screenshots
 
 ![g-loadscreen grey](https://raw.githubusercontent.com/E2Ghibli/g-loadscreen/main/.github/grey.png)
