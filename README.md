@@ -1,7 +1,7 @@
 
 # G-Loadscreen
 
-Its a fivem loadscreen you habe not seen so far with many featuers.
+Its a fivem loadscreen you have not seen so far with many features.
 
 
 
