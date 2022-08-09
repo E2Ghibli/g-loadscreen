@@ -7,6 +7,7 @@ Its a fivem loadscreen you have not seen so far with many features.
 
 ## Featuers
 
+- Config
 - Logs
 - Loading Bar
 - Music
