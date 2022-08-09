@@ -25,7 +25,7 @@ If you want to change something go in the `g-loadscreen/js/config.js` there you 
 
 ## Screenshots
 
-![g-loadscreen grey](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![g-loadscreen grey](https://raw.githubusercontent.com/E2Ghibli/g-loadscreen/main/.github/grey.png)
 
-![g-loadscreen blue](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![g-loadscreen blue](https://raw.githubusercontent.com/E2Ghibli/g-loadscreen/main/.github/blue.png)
 
