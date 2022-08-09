@@ -12,7 +12,7 @@ Its a fivem loadscreen you habe not seen so far with many featuers.
 - Music
 - Server Name
 - NAV List
-- Corsure
+- Cursor
 
 
 
