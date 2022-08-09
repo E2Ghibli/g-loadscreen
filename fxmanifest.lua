@@ -1,4 +1,11 @@
-description 'g-loadscreen by E2 Ghibli'
+fx_version 'bodacious'
+games { 'common' }
+
+author { 'Ghibli' }
+description { 'g-loadscreen simple fast good' }
+version '1.0.1'
+
+loadscreen 'index.html'
 
 files {
     'index.html',
@@ -15,5 +22,3 @@ files {
     'js/scriptnav.js',
     'js/config.js',
 }
-
-loadscreen 'index.html'
