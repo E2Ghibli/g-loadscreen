@@ -29,3 +29,4 @@ If you want to change something go in the `g-loadscreen/js/config.js` there you 
 
 ![g-loadscreen blue](https://raw.githubusercontent.com/E2Ghibli/g-loadscreen/main/.github/blue.png)
 
+![g-loadscreen navlist](https://raw.githubusercontent.com/E2Ghibli/g-loadscreen/main/.github/navlist.png)
