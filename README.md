@@ -1,3 +1,4 @@
+<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/E2Ghibli/g-loadscreen/total">
 
 # G-Loadscreen
 
