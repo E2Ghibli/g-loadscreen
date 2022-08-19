@@ -1,5 +1,7 @@
 <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/E2Ghibli/g-loadscreen/total"> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/E2Ghibli/g-loadscreen"> <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/E2Ghibli/g-loadscreen"> <img alt="GitHub" src="https://img.shields.io/github/license/E2Ghibli/g-loadscreen">
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=E2Ghibli.g-loadscreen)
+
 # G-Loadscreen
 
 Its a fivem loadscreen you have not seen so far with many features.
