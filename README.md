@@ -1,6 +1,7 @@
-![GitHub](https://img.shields.io/github/license/E2Ghibli/g-loadscreen?logo=gnu) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/E2Ghibli/g-loadscreen?logo=github) <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/E2Ghibli/g-loadscreen"> ![GitHub Release Date](https://img.shields.io/github/release-date/E2Ghibli/g-loadscreen?logo=Robot%20Framework) ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=E2Ghibli.g-loadscreen&logo=github)
 
 # G-Loadscreen
+
+![GitHub](https://img.shields.io/github/license/E2Ghibli/g-loadscreen?logo=gnu) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/E2Ghibli/g-loadscreen?logo=github) <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/E2Ghibli/g-loadscreen"> ![GitHub Release Date](https://img.shields.io/github/release-date/E2Ghibli/g-loadscreen?logo=Robot%20Framework) ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=E2Ghibli.g-loadscreen&logo=github)
 
 Its a fivem loadscreen you have not seen so far with many features.
 
