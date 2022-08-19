@@ -1,4 +1,4 @@
-![GitHub](https://img.shields.io/github/license/E2Ghibli/g-loadscreen?logo=gnu) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/E2Ghibli/g-loadscreen?logo=github) <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/E2Ghibli/g-loadscreen"> <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/E2Ghibli/g-loadscreen"> [![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=ESKYoung.shields-io-visitor-counter&color=1D70B8&logo=GitHub&logoColor=FFFFFF&style=flat-square)](https://github.com/ESKYoung/shields-io-visitor-counter)
+![GitHub](https://img.shields.io/github/license/E2Ghibli/g-loadscreen?logo=gnu) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/E2Ghibli/g-loadscreen?logo=github) <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/E2Ghibli/g-loadscreen"> ![GitHub Release Date](https://img.shields.io/github/release-date/E2Ghibli/g-loadscreen?logo=Robot%20Framework) ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=E2Ghibli.g-loadscreen)
 
 # G-Loadscreen
 
